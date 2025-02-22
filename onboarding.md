@@ -1,4 +1,4 @@
-# Pividori Laboratory onboarding information
+# NDavidson Laboratory onboarding information
 
 # Mission statement
 
@@ -49,7 +49,7 @@ However, do note that we work on biological matters, so work-related discussions
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Milton Pividori immediately. <!-- If Milton is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Milton and has agreed to mediate. -->
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Natalie Davidson immediately. <!-- If Milton is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Milton and has agreed to mediate. -->
 For additional resolution paths, please see the University of Colorado Anschutz [ombuds](https://www.ucdenver.edu/offices/ombudsoffice) or [professionalism](https://www.cuanschutz.edu/offices/professionalism) offices.
 The code of conduct section is licensed under a Creative Commons Attribution 3.0 Unported License. <http://2012.jsconf.us/#/about> & The Ada Initiative.
 Please help by translating or improving: <http://github.com/leftlogic/confcodeofconduct.com>.
@@ -70,14 +70,14 @@ In addition, please don't hesitate to raise any questions or concerns that you h
 **PhD student committees:** PhD students will interact with their qualifier and thesis committees.
 Students should correspond with the coordinator for their graduate program to understand the expectations that exist around communication with committee members.
 Questions about what document(s) their committee will expect to see and when they should be sent to the committee should be resolved with the coordinator at least a month in advance of a scheduled meeting.
-Students in the Pividori Lab are not to provide food or drinks for committee members.
+Students in the NDavidson Lab are not to provide food or drinks for committee members.
 If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided in an email in advance of the meeting and cite this policy.
 
 **Conference travel:** We try to make sure that each member of the lab can travel to one conference per year of their choice outside of their home region.
 The conference should be within the continental United States or cost-competitive with similar conferences in the continental US.
 Lab members who travel to such a conference should submit an abstract for an oral presentation and poster and should present in whatever form is accepted at the meeting.
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
-Lab members should first clear such travel with Milton.
+Lab members should first clear such travel with Natalie.
 Lab members who are invited to conferences or other presentation opportunities with their costs covered by the organization inviting them, e.g., as an invited speaker or keynote, are welcome to accept such invitations.
 In all cases, conference travel should be noted on the lab attendance calendar (see below on how to use the lab's calendar).
 
@@ -89,14 +89,6 @@ In all cases, conference travel should be noted on the lab attendance calendar (
 If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
 This helps to keep communications in one place, and Milton commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
 There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#random`, `#wins`.
-
-**HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
-We wanted a way to recognize each other when this happens.
-We use HeyTaco.
-This allows lab members to send a quick virtual thank you note and/or pat on the back.
-If someone's paper gets accepted or someone helps you out with a programming question, congratulate or thank them.
-Post a message that mentions any user in the `#wins` Slack channel, and they'll get a HeyTaco point.
-When one member accumulates enough points, they take the lab out to lunch (Milton pays).
 
 **Social media:** Lab members are encouraged to communicate through public social media.
 If a lab member chooses to do so on an account that notes an affiliation with the lab, the lab member is expected to follow our code of conduct.
@@ -112,7 +104,6 @@ Lab members must follow the [University of Colorado | Anschutz policies](https:/
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Milton to discuss these concerns.
 
-**Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy). For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
 
 **Calendars:** When you join the lab, you should be added to the "Pividori Lab" group in Outlook.
 In this group, we have a calendar that you should be able to see and modify.
@@ -122,16 +113,16 @@ In this calendar, we add:
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
-+ GitHub (pivlab)
++ GitHub (NDavidsonLab)
 + Outook (this is the CU account; you should be part of the "Pividori Lab" group)
-+ Slack (Pividori Lab, pivlab.slack.com)
++ Slack (NDavidson Lab, ndavidsonlab.slack.com)
 
 ## Meetings
 
 Our team's scrum process ("scrum" is a framework typically used in software development) involves three components:
 
 1. A *weekly kick-off meeting* at 9:30 AM MT on Monday morning.
-2. A *weekly demo day meeting* at 1:00 PM MT on Friday afternoon.
+2. A *weekly demo day meeting* at 3:00 PM MT on Friday afternoon.
 3. A *daily virtual scrum update*.
 
 **Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their weekly goals on Zoom/Teams.
@@ -139,52 +130,28 @@ If you cannot join the kick-off meeting, you are expected to send a short messag
 
 **Weekly demo day meeting:** This is a quick (no more than 10 or 15 minutes) virtual lab meeting where team members show off an accomplishment from the week in 3 minutes or fewer.
 This could be a new figure, a section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
-For this, we use [PowerPoint slides](https://olucdenver-my.sharepoint.com/:p:/g/personal/milton_pividori_cuanschutz_edu/EYnxr99YOfREgFaPqe3_uEQB2hu8YFUQrLnqyuth3xKc1Q?e=PIL4hE) to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab.
+To share figures or paper sections for the demo day meeting use the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab.
 If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
 
-**Daily virtual scrum update:**
-The daily virtual scrum update should include an update from each individual to the [daily-tasks repository](https://github.com/pivlab/daily-tasks/).
-An issue is automatically created for each workday, and they can be accessed [here](https://github.com/pivlab/daily-tasks/issues).
-Each member of the lab is required to post a comment on the corresponding issue with a list of tasks planned for that day.
+**Daily virtual github projects check-in:**
+Lab members are expected to keep all ongoing tasks up-to-date in the [github projects repository](https://github.com/orgs/NDavidsonLab/projects/1).
 
-When writing this comment, consider the following:
-1. what specific items you accomplished yesterday,
-1. what specific items you plan to accomplish today,
+When adding or moving tasks, consider the following:
+1. Do you have enough bandwidth to add another task?
+1. Is the alloted time realistic?
 1. who, if anyone, is blocking you,
 1. who, if anyone, you are blocking.
 
 **Lab meeting:** 
-- Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
+- Lab meetings are joint with the Bitler lab, for 1.5 hours 9:30-11:00 on Wednesdays. All members of the Davidson lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
 
-   **Meeting agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
-
-    The lead will choose the format for each meeting. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months). 
-
-   - **Format 1: Braintrust**
-        - The meeting lead presents their own research/project to the group. Presenters often focus on open questions or challenges in their work. Occasionally, they present a new talk or set of slides that they intend to deliver at a meeting, job talk, etc. This is a way for the group to get familiar with each other's work. It is also a good way to get feedback, advice, or help with research if needed.
-   - **Format 2: Tech talk/discussion**
-        - Talks on commonly used tech in the labs, or strategies for staying on top of the literature, organization, etc.    
-   - **Format 3: Post-conference presentations**
-        - Journal club talk on favorite poster/talk. Either from each person or from a selected set that the group votes on.
-   - **Format 4: Big ideas or projects**
-        - This format is meant to help senior members practice for paper discussion sections/conclusions while helping newer members see where the boundaries of fields are.
-   - **Format 5: Journal club**
-       - Presentation to be given by meeting leader followed by group discussion. The meeting leader should aim to send the chosen paper one week before the scheduled meeting, and lab members are expected to be familiar with the content for discussion.
-   - **Format 6: Preprint review**
-       - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
-
-  **Lab meeting lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (sign up at [https://docs.google.com/document/d/1KeYg1_ijgHTMxQQLohcmtGX8wEYs_-ayUOn0kmtSq2U/edit?usp=sharing])
-   - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
-   - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
-   - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
-
-  **Ad-hoc meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
+**Ad-hoc meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
    - Ad hoc meetings are meant to help lab members get advice and help on projects, prepare for talks, oral exams, etc.
 
 **Individual meetings:** We schedule weekly individual meetings.
- Once you join the lab, contact Milton to set up a time.
+ Once you join the lab, contact Natalie to set up a time.
  These are set up for a term to accommodate class schedules.
- We don't reschedule these meetings by default if one of the parties (Milton or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Milton to reschedule.
+ We don't reschedule these meetings by default if one of the parties (Natalie or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Milton to reschedule.
  The goal of the weekly meeting is to:
 
  1.  Discuss challenges.
@@ -203,7 +170,7 @@ To prepare for these meetings students and staff are required to create an activ
 - goals for next session: What would you like to accomplish by the end of next cycle?
 - self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
-The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Pividori-reflection-202308.txt).
+The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Davidson-reflection-202308.txt).
 Submit the report in a direct message to Milton via slack.
 <!-- How does this work at CU? - During the summer, graduate students are required to complete CU's individual development plan (IDP). -->
 <!-- Post-docs must complete an IDP prior to their annual contract renewal. -->
@@ -222,8 +189,6 @@ People should see your name on a piece of code and expect it to be solid, well w
 While some code will be proof-of-concept code, it should be of a form that inspires confidence.
 
 **Language:** We write code for our analyses in Python or R, which allows everyone in the lab to know two languages and understand analytical code.
-Code for visualization can be Python, R, or javascript.
-Web server interface code uses javascript.
 
 **Licensing:**
 We release as many research outputs as possible under permissive open licenses.
@@ -235,28 +200,28 @@ In certain cases, a funding agency requires a different license or upstream rest
 In these cases, the lab may apply a different license.
 If you have questions or concerns about licensing, feel free to raise them in Slack.
 
-**Version control services:** Our primary version control service is GitHub, and we have a [`pivlab` account](https://github.com/pivlab) there.
+**Version control services:** Our primary version control service is GitHub, and we have a [`NDavidsonlab` account](https://github.com/NDavidsonlab) there.
 We expect that lab members will maintain their code in repositories under these team accounts.
 However, lab member should not commit to the branch that is shown as default on GitHub for any of these repositories.
 Instead commits happen as described below to facilitate code review.
 
-**Creating a Pividori Lab repository:**
+**Creating a NDavidson Lab repository:**
 
 1.  Create a repository under the team account.
 2.  Immediately fork this repository into one that your user account owns.
-3.  Make commits to your own repository, and move code back to the `pivlab` repository as described below.
+3.  Make commits to your own repository, and move code back to the `NDavidsonlab` repository as described below.
 
-**Getting code into Pividori Lab repositories:** Code moves from user repositories to `pivlab` repositories through a process of code review.
+**Getting code into NDavidson Lab repositories:** Code moves from user repositories to `NDavidsonlab` repositories through a process of code review.
 Code review is handled through pull requests.
 The process is described briefly below.
 Feel free to ask for guidance if you are uncomfortable with the process.
 **We will revoke write access for failing to adhere to these rules.**
 
 1.  Make changes to your code and commit them in your own repository first.
-2.  Create a pull request into the repository owned by Pividori Lab.
+2.  Create a pull request into the repository owned by NDavidson Lab.
 3.  Name potential reviewers for your pull request.
 4.  Once at least one lab member has approved your pull request, you or a reviewer may merge your pull request.
-The only exception to this policy is this repository ("onboarding") where, in addition to the above rules, Milton must also approve the pull request.
+The only exception to this policy is this repository ("onboarding") where, in addition to the above rules, Natalie must also approve the pull request.
 
 **Composition of pull requests:** Each pull request may contain one or more changesets.
 In keeping with good source control practice, each changeset or commit should contain *all* changes necessary for a particular fix or update.
@@ -282,15 +247,15 @@ When we generate data, they should be stored in a location where they are replic
 
 **Reproducibility:** We expect all lab members to maintain code that performs reproducible analyses.
 This can be in the form of makefiles, shell scripts, or other automation approaches such as [pytask](https://pytask-dev.readthedocs.io/en/stable/index.html) that allow analyses to be automatically performed.
-We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into Pividori Lab Repositories") and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
+We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into NDavidson Lab Repositories") and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
 Combined with the review guidelines, this means that all code must have been reviewed for these documents to be submitted.
 
 ## How to modify this document
 
 This is a living document.
-The repository is at [GitHub](https://github.com/pivlab/onboarding).
+The repository is at [GitHub](https://github.com/NDavidsonlab/onboarding).
 To make changes, fork, edit the files you wish, and create a pull request.
-The pull request process is handled as described in the Getting Code into Pividori Lab Repositories section of coding_and_software.
+The pull request process is handled as described in the Getting Code into NDavidson Lab Repositories section of coding_and_software.
 
 <!-- ## Additional Resources
 
