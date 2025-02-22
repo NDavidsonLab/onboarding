@@ -117,7 +117,7 @@ Our team's scrum process ("scrum" is a framework typically used in software deve
 
 1. A *weekly kick-off meeting* at 9:30 AM MT on Monday morning.
 2. A *weekly demo day meeting* at 3:00 PM MT on Friday afternoon.
-3. A *daily virtual scrum update*.
+3. A *daily virtual github projects check-in*.
 
 **Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their weekly goals on Zoom/Teams.
 If you cannot join the kick-off meeting, you are expected to send a short message to the `#lab-meetings` channel (in Slack) with your update before the kick-off meeting.
