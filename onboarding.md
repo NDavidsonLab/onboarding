@@ -2,10 +2,11 @@
 
 # Mission statement
 
-Our lab is dedicated to advancing precision medicine through the development and application of novel machine-learning methods.
-Our primary focus is on developing novel algorithms and tools that integrate genetic studies with multi-omics data to unravel the complex interplay between genetics and disease.
-We aim to pave the way for personalized diagnostic and therapeutic approaches to complex diseases by harnessing the power of computational analysis and systems biology.
-We incorporate the latest advancements in machine learning and knowledge discovery to model the emergent complexity of biological systems with the aim of advancing our understanding of disease pathology and improving human health.
+The main focus of our lab is to use machine learning approaches to deepen our understanding of ovarian cancer and improve patient outcomes. 
+Machine learning methods have revolutionized many aspects of our lives, largely due to the vast amount of data available to train the model. 
+To apply machine learning approaches to ovarian cancer, a rare and heterogeneous disease, our lab utilizes and develops new, advanced methods to take full advantage of currently available data. 
+We seek to do this by carefully integrating heterogeneous, multimodal, and multiscale sources of high-throughput sequencing data.
+
 
 To accomplish this, we will write high-quality code and perform robust and reproducible analyses, ensuring our research is conducted within reproducible environments.
 By adopting such practices, we aim to provide biologists who use our methods and web servers with high confidence in our results and processes.
