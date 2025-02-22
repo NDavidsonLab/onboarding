@@ -1,6 +1,6 @@
 # NDavidson Lab Onboarding Repository
 
-The repository is home to the onboarding information for the [NDavidson Lab](https://NDavidsonlab.org/) at the University of Colorado School of Medicine.
+The repository is home to the onboarding information for the [NDavidson Lab](https://medschool.cuanschutz.edu/ob-gyn/divisions/division-of-reproductive-sciences/research-labs/davidson-labs) at the University of Colorado School of Medicine.
 
 # Checklist for new lab members
 * **Read the [`onboarding.md`](onboarding.md) document**.
