@@ -25,13 +25,13 @@ In general, lab members are expected to follow weekday working hours that includ
 We will aim to schedule meetings that respect these hours to the extent possible between the Eastern and Pacific time zones, recognizing that certain meetings (weekly kick-off and demo day) may fall outside of these hours in certain timezones.
 In no cases should recurring meetings be scheduled that routinely fall outside of 8:00 AM to 5:00 PM for any lab member working within the continental United States.
 
-**Milton's role:** Milton's goal is to facilitate your success as well as that of your project.
-Within your project, Milton will serve as a sounding board for ideas, help you plan your project, and help devise experiments to test your hypotheses.
-To facilitate your success, Milton will help you to plan your training, devise a career plan that can take you to where you want to go, advise you on your project-risk portfolio, and provide guidance on other elements of career and project development as needed.
-Milton is by training a software engineer and as time allows, he will also provide feedback on your code if you request it.
+**Natalie's role:** Natalie's goal is to facilitate your success as well as that of your project.
+Within your project, Natalie will serve as a sounding board for ideas, help you plan your project, and help devise experiments to test your hypotheses.
+To facilitate your success, Natalie will help you to plan your training, devise a career plan that can take you to where you want to go, advise you on your project-risk portfolio, and provide guidance on other elements of career and project development as needed.
+Natalie is by training a software engineer and as time allows, he will also provide feedback on your code if you request it.
 
 **Deadlines:** Our lab aims to develop a reputation for high-quality science that is well-presented.
-For this, abstracts for meetings must be shared with all co-authors, including Milton, at least one week prior to the deadline for submission.
+For this, abstracts for meetings must be shared with all co-authors, including Natalie, at least one week prior to the deadline for submission.
 Failure to abide by this guideline will result in missing whatever the opportunity in question is.
 
 Trainees in the lab will often receive opportunities to present their work at scientific conferences.
@@ -50,7 +50,7 @@ However, do note that we work on biological matters, so work-related discussions
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Natalie Davidson immediately. <!-- If Milton is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Milton and has agreed to mediate. -->
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Natalie Davidson immediately. <!-- If Natalie is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Natalie and has agreed to mediate. -->
 For additional resolution paths, please see the University of Colorado Anschutz [ombuds](https://www.ucdenver.edu/offices/ombudsoffice) or [professionalism](https://www.cuanschutz.edu/offices/professionalism) offices.
 The code of conduct section is licensed under a Creative Commons Attribution 3.0 Unported License. <http://2012.jsconf.us/#/about> & The Ada Initiative.
 Please help by translating or improving: <http://github.com/leftlogic/confcodeofconduct.com>.
@@ -66,7 +66,7 @@ We expect that credit will be given where credit is due, including in scientific
 Plagiarism is not tolerated.
 While a full enumeration of ethical considerations is outside this document's scope, CU provides a [document](https://www.cu.edu/ope/aps/2027) that we recommend.
 
-In addition, please don't hesitate to raise any questions or concerns that you have at any point with Milton.
+In addition, please don't hesitate to raise any questions or concerns that you have at any point with Natalie.
 
 **PhD student committees:** PhD students will interact with their qualifier and thesis committees.
 Students should correspond with the coordinator for their graduate program to understand the expectations that exist around communication with committee members.
@@ -88,7 +88,7 @@ In all cases, conference travel should be noted on the lab attendance calendar (
 
 **Slack:** We use Slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
-This helps to keep communications in one place, and Milton commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
+This helps to keep communications in one place, and Natalie commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
 There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#random`, `#wins`.
 
 **Social media:** Lab members are encouraged to communicate through public social media.
@@ -103,19 +103,12 @@ It would be most appropriate for the conversation to take place on GitHub issues
 **IP/Openness:** This is handled in accordance with the instructions from our research sponsors and university guidance.
 Lab members must follow the [University of Colorado | Anschutz policies](https://www.cuanschutz.edu/cu-innovations/cu-innovations/innovator-resources/innovation-resource-guide/policies-documents) (for CU-affiliated lab members) and the agreements with our sponsors.
 These often allow, encourage, or require openness.
-If you have concerns at any point, set up a meeting with Milton to discuss these concerns.
-
-
-**Calendars:** When you join the lab, you should be added to the "Pividori Lab" group in Outlook.
-In this group, we have a calendar that you should be able to see and modify.
-In this calendar, we add:
-1. *lab events*: mandatory events such as lab meetings, scrums, and group deadlines.
-1. *attendance*: for noting individual availability (i.e. whether you'll be out of the office); it should be used, for example, to note vacations, conference travel, and other workday conflicts. For example, if you'll be out of the office for a few days, create an event in the "Pividori Lab" calendar with the title "Your name: out of office" or "Your name: attending ASHG."
+If you have concerns at any point, set up a meeting with Natalie to discuss these concerns.
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
 + GitHub (NDavidsonLab)
-+ Outook (this is the CU account; you should be part of the "Pividori Lab" group)
++ Outook (this is the CU account; you should be part of the "NDavidson lab" group)
 + Slack (NDavidson Lab, ndavidsonlab.slack.com)
 
 ## Meetings
@@ -152,13 +145,13 @@ When adding or moving tasks, consider the following:
 **Individual meetings:** We schedule weekly individual meetings.
  Once you join the lab, contact Natalie to set up a time.
  These are set up for a term to accommodate class schedules.
- We don't reschedule these meetings by default if one of the parties (Natalie or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Milton to reschedule.
+ We don't reschedule these meetings by default if one of the parties (Natalie or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Natalie to reschedule.
  The goal of the weekly meeting is to:
 
  1.  Discuss challenges.
  2.  Plan strategy (project related, personal career, etc).
 
-**Triannual self reflection:** Every four months students, postdocs, and staff will individually meet with Milton to discuss their existing goals, current progress made and set goals for the next interval.
+**Triannual self reflection:** Every four months students, postdocs, and staff will individually meet with Natalie to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
 
 - publications: submitted/accepted/published
@@ -172,7 +165,7 @@ To prepare for these meetings students and staff are required to create an activ
 - self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Davidson-reflection-202308.txt).
-Submit the report in a direct message to Milton via slack.
+Submit the report in a direct message to Natalie via slack.
 <!-- How does this work at CU? - During the summer, graduate students are required to complete CU's individual development plan (IDP). -->
 <!-- Post-docs must complete an IDP prior to their annual contract renewal. -->
 <!-- This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle. -->
